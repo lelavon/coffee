@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,IAAI,CAAA;EACA,UAAU,EAAE,OAAkB;CACjC;;AACD,AAAA,UAAU,CAAA;EACN,OAAO,EAAE,IAAI;EACb,qBAAqB,EAAE,cAAc;EACrC,cAAc,EAAE,IAAI;EACpB,QAAQ,EAAE,IAAI;EACd,UAAU,EAAE,IAAI;CACnB;;AAED,MAAM,MAAM,MAAM,MAAM,SAAS,EAAE,KAAK;EACpC,AAAA,UAAU,CAAA;IACN,qBAAqB,EAAE,cAAc;GACxC",
+    "sources": [
+        "farmer.scss"
+    ],
+    "names": [],
+    "file": "farmer.css"
+}
